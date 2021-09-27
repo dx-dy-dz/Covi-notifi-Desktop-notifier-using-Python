@@ -1,1 +1,1 @@
-# Desktop-notifier
+# Covi-notifier
