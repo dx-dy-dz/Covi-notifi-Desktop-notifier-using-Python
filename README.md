@@ -1,5 +1,7 @@
 # Covi-notifier
 ## A desktop notifier built with Python for getting the Covid stats in India
+### Link to product walkthrough
+[]
 ### Modules used
 * Requests
 * Plyer
