@@ -16,7 +16,7 @@ if (covidData != None):
                         totalcases = data['cases'],
                         todaycases = data['todayCases'],
                         todaydeaths = data['todayDeaths'],
-                        active = data["active"]),  
+                        active = data["active"]),app_icon =  "coronavirus.ico",
             timeout  = 100
         )
         time.sleep(60*60*4)
