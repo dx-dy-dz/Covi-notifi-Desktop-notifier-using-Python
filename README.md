@@ -3,7 +3,7 @@
 ### Team Members
 * Divya Das [[Github]](https://github.com/dx-dy-dz)
 * Akhi P Venu [[Github]](https://github.com/Akhi-0812)
-* Meenakshi Manoj [[Github]]()
+* Meenakshi Manoj [[Github]](https://github.com/Meenakshi-Manoj)
 ### Link to product walkthrough
 [Link]()
 ### Modules used
