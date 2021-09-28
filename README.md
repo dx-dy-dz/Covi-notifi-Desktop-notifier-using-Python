@@ -2,7 +2,7 @@
 ## A desktop notifier built with Python for getting the Covid stats in India
 ### Team Members
 * Divya Das [[Github]](https://github.com/dx-dy-dz)
-* Akhi P Venu [[Github]]()
+* Akhi P Venu [[Github]](https://github.com/Akhi-0812)
 * Meenakshi Manoj [[Github]]()
 ### Link to product walkthrough
 [Link]()
