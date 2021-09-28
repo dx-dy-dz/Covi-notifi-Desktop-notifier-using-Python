@@ -1,4 +1,3 @@
-import datetime
 import time 
 import requests
 from plyer import notification
