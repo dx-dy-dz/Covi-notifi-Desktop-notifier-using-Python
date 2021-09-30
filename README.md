@@ -12,3 +12,6 @@
 ### How to configure
 * Install requests using command: pip install requests
 * Install plyer using command: pip install plyer
+## Screenshots
+
+![Screenshot](https://user-images.githubusercontent.com/72246025/130133528-a2bcdbcd-f60e-4ae3-9aab-44466ee8158d.png)
