@@ -14,4 +14,6 @@
 * Install plyer using command: pip install plyer
 ## Screenshots
 
-![Screenshot](ss.jpg)
+![Screenshot](ss-1.jpg)
+![Screenshot](ss-2.jpg)
+![Screenshot](ss-3.jpg)
