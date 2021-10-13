@@ -5,7 +5,7 @@
 * Akhi P Venu [[Github]](https://github.com/Akhi-0812)
 * Meenakshi Manoj [[Github]](https://github.com/Meenakshi-Manoj)
 ### Link to product walkthrough
-* [Link](https://www.loom.com/share/4bcce78359b8478d8a8d0998ba11f589)
+> [Link](https://www.loom.com/share/4bcce78359b8478d8a8d0998ba11f589)
 ### Modules used
 * Requests
 * Plyer
