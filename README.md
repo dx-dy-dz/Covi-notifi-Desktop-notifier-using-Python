@@ -12,7 +12,7 @@
 ### How to configure
 Install requests using command:
  > pip install requests
-* Install plyer using command: 
+Install plyer using command: 
  > pip install plyer
 ## Screenshots
 
