@@ -10,7 +10,7 @@
 * Requests
 * Plyer
 ### How to configure
-* Install requests using command:
+Install requests using command:
  > pip install requests
 * Install plyer using command: 
  > pip install plyer
