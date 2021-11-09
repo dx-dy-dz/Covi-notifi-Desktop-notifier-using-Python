@@ -7,7 +7,7 @@ try:
 except:
     print("Please! Check your internet connection")
 if (covidData != None):
-    data = covidData.json()['Success']
+    data = covidData.json()['Success'] 
     while(True):
         notification.notify(
             title = "COVID-19 Stats in India",
