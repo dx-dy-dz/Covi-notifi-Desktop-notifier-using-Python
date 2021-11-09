@@ -1,6 +1,6 @@
 import time 
-import requests
-from plyer import notification
+import requests 
+from plyer import notification 
 covidData = None
 try:
     covidData = requests.get("https://corona-rest-api.herokuapp.com/Api/india")
